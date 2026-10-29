@@ -1,0 +1,120 @@
+{
+ "updated": "2026-10-29T22:14:06+00:00",
+ "release": "https://github.com/lychee-keyboard/lychee/releases/tag/packs",
+ "packs": {
+  "dict_ko": {
+   "name": "Korean dictionary",
+   "summary": "Meanings, Hanja and part of speech under the Korean candidates",
+   "version": "2026.10.29",
+   "file": "lychee-dict-ko.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-dict-ko.zip",
+   "digest": "6fac24947efaafa849adcb6a1187df11ea7aa4dbde68b3ad0e4a78286a829d69",
+   "updated": "2026.10.29",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 12888046
+  },
+  "emoji_blobmoji": {
+   "name": "Blobmoji",
+   "summary": "Google's classic blobs",
+   "version": "v15.0",
+   "file": "lychee-emoji-blobmoji.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-emoji-blobmoji.zip",
+   "digest": "3ee3ff2255b8bbb933f6c8884a405f4d76f4a4f50e502edf4e8474bfdff2f819",
+   "updated": "2026.10.28",
+   "emoji": "15.0",
+   "note": "Version v15.0",
+   "size": 12011006
+  },
+  "emoji_noto_latest": {
+   "name": "Noto Color Emoji (newest)",
+   "summary": "Google's emoji, newest release (Lychee includes a copy)",
+   "version": "main@99701e0",
+   "file": "lychee-emoji-noto-latest.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-emoji-noto-latest.zip",
+   "digest": "f5f3e071f28f97b599ac4e344299933f7916957970b6da196b67098c40b93775",
+   "updated": "2026.10.28",
+   "emoji": "17.0",
+   "note": "Version main@99701e0",
+   "size": 9962694
+  },
+  "emoji_openmoji": {
+   "name": "OpenMoji",
+   "summary": "Open-source hand-drawn style",
+   "version": "17.0.0",
+   "file": "lychee-emoji-openmoji.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-emoji-openmoji.zip",
+   "digest": "57edd2869cb7b3113fdd1384a13c86be354d692200ffe3e87ea2d4b4de29f7f9",
+   "updated": "2026.10.28",
+   "emoji": "17.0",
+   "note": "Version 17.0.0",
+   "size": 5919456
+  },
+  "emoji_twemoji": {
+   "name": "Twemoji",
+   "summary": "Twitter/X style (Mozilla's font build)",
+   "version": "v0.7.0",
+   "file": "lychee-emoji-twemoji.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-emoji-twemoji.zip",
+   "digest": "d4faaa8f51e17a35d482b2844c1c1fa0dafd0b5ae3234fe26b1b348871936ece",
+   "updated": "2026.10.28",
+   "emoji": "14.0",
+   "note": "Version v0.7.0",
+   "size": 731370
+  },
+  "examples": {
+   "name": "Example sentences",
+   "summary": "Cantonese, Mandarin, Japanese and Korean sentences with English, in the word card",
+   "version": "1",
+   "file": "lychee-examples.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-examples.zip",
+   "digest": "ae20c8af1ec05b961b317498f4204c37386526093651f75f3411121af0caa7c1",
+   "updated": "2026.10.28",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 4840671
+  },
+  "hw_ja": {
+   "name": "Handwriting: Japanese",
+   "summary": "Write kana and kanji",
+   "version": "1",
+   "file": "lychee-hw-ja.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-hw-ja.zip",
+   "digest": "0e024cb2f1f8d57497d7a54bd5c2a5e9773ddef363dc0b15e82b2ce05fb82600",
+   "updated": "2026.10.28",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 17264232
+  },
+  "hw_zh": {
+   "name": "Handwriting: Chinese",
+   "summary": "Write 繁體 and 简体 characters, including Cantonese ones",
+   "version": "2",
+   "file": "lychee-hw-zh.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-hw-zh.zip",
+   "digest": "86cc35cb8f4c19150f908e645f2ec68db093cee646706afe4b1ddc230ad54246",
+   "updated": "2026.10.28",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 52384188
+  },
+  "rime_ja": {
+   "name": "Japanese dictionary",
+   "summary": "Kana to kanji conversion, with readings and meanings (JMdict) under the candidates",
+   "version": "2026.10.29",
+   "file": "lychee-rime-ja.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-rime-ja.zip",
+   "digest": "59cb56eb0a0ebd0bd130e3a34a0b89d20ad5098292110103c0d3f2d3edb22412",
+   "updated": "2026.10.29",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 35894300
+  },
+  "strokes_zh": {
+   "name": "Stroke order",
+   "summary": "Stroke order animations and character breakdown (parts, radical) in the word card",
+   "version": "1",
+   "file": "lychee-strokes.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-strokes.zip",
+   "digest": "86c646f8e80388df4338aec3cd93513fe0c548fb1e2a8c9e8afc12e47fd05980",
+   "updated": "2026.10.28",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 13874688
+  }
+ }
+}
