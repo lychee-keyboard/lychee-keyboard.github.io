@@ -1,0 +1,61 @@
+{
+ "updated": "2026-11-06T10:38:39+00:00",
+ "release": "https://github.com/lychee-keyboard/lychee/releases/tag/packs",
+ "packs": {
+  "dict_en": {
+   "name": "English dictionary",
+   "summary": "Definitions, examples and pronunciation for English words (hold a suggestion)",
+   "version": "2026.11.06",
+   "file": "lychee-dict-en.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-dict-en.zip",
+   "digest": "d4158b9e179a4ce7d62e455d4b1b8e4a79bcc196e6da1273591344d94a1c3f10",
+   "updated": "2026.11.06",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 8541733
+  },
+  "dict_ko": {
+   "name": "Korean dictionary",
+   "summary": "Meanings, Hanja and part of speech under the Korean candidates",
+   "version": "2026.11.06",
+   "file": "lychee-dict-ko.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-dict-ko.zip",
+   "digest": "62d0f2de220fef1f71f2daae07b50c3560c9fed3a2d5b98c69253fc03fa66144",
+   "updated": "2026.11.06",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 12888045
+  },
+  "examples": {
+   "name": "Example sentences",
+   "summary": "Cantonese, Mandarin, Japanese and Korean sentences with English, in the word card",
+   "version": "2026.11.02",
+   "file": "lychee-examples.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-examples.zip",
+   "digest": "683c5665fdd3e1a201703ce4e55184541dd772479743da34c9df81b2142a44bc",
+   "updated": "2026.11.02",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 4840641
+  },
+  "rime_ja": {
+   "name": "Japanese dictionary",
+   "summary": "Kana to kanji conversion, with readings and meanings (JMdict) under the candidates",
+   "version": "2026.11.06",
+   "file": "lychee-rime-ja.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-rime-ja.zip",
+   "digest": "197b647a3a4370e6d64911b9f635510ebba3eadd09272a061d5cf36752d8aecc",
+   "updated": "2026.11.06",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 35902351
+  },
+  "strokes_zh": {
+   "name": "Stroke order",
+   "summary": "Stroke order animations and character breakdown (parts, radical) in the word card",
+   "version": "2026.11.05",
+   "file": "lychee-strokes.zip",
+   "url": "https://github.com/lychee-keyboard/lychee/releases/download/packs/lychee-strokes.zip",
+   "digest": "e4a87f543e6e915321b6c6cbd6c95248054e8948b45cac614da4f37479639faf",
+   "updated": "2026.11.05",
+   "note": "Rebuilt with the latest data from its sources",
+   "size": 16505468
+  }
+ }
+}
